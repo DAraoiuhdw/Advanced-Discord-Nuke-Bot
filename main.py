@@ -99,12 +99,12 @@ async def mall(ctx):
             embed.add_field(
                 name="Discord Server",
                 value=
-                "[ [ Click here ] ](https://discord.gg/kE9vk9Zeuf)",
+                "[ [ Click here ] ](https://discord.gg/WYnq673KCk)",
                 inline=False)
             embed.add_field(
                 name="Youtube Channel",
                 value=
-                "[ [ Click here ] ](https://www.youtube.com/channel/UCXk0klxbjcVgGvYyKWLgtLg)",
+                "[ [ Click here ] ](https://www.youtube.com/channel/UChAz4va6W3X7XbPhLYNtISA)",
                 inline=False)
             embed.add_field(
                 name="GitHub",
